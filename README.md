@@ -22,3 +22,5 @@ In my prior research, I've identified an anomalously large precipitation trend i
 
 2) Hadley Centre Sea Surface Temperature data set (HadISST):https://www.metoffice.gov.uk/hadobs/hadisst/
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dbishop6213/FinalProject/master?filepath=Bishop_FinalProject.ipynb)
